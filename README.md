@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! mi nombre es Felipe Suarez<br>Soy desarrollador front-end<br>Actualmente me escuentro estudiando back-end<br>Me gustaria trabajar para una empresa como Front-end developer junior<br>Tambien me gustaria colaborar con el codigo abierto para sumar en la comunidad. 
+Hola! mi nombre es Felipe Suarez<br>Soy desarrollador Full Stack<br>Actualmente me escuentro trabajando como tutor en una academia online, creando proyectos freelance y personales<br>Me caracterizo por mi comunicación transparente y objetiva, siempre trabajando con un enfoque claro en alcanzar mis metas. Me gusta involucrarme en proyectos donde pueda aportar ideas innovadoras y colaborar en equipo para lograr resultados exitosos. Soy una persona comprometida y dedicada, dispuesta a aprender algo nuevo cada día y a perfeccionar mis habilidades constantemente. Además, me motiva ayudar a los demás y contribuir en el crecimiento del equipo y la organización
 
 
 ## 🌐 Socials:
