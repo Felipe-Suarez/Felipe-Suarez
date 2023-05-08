@@ -16,6 +16,6 @@ Hola! mi nombre es Felipe Suarez<br>Soy desarrollador Full Stack<br>Actualmente 
 ![](https://github-profile-trophy.vercel.app/?username=Felipe-Suarez&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=d&icon=6&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Felipe-Suarez&icon=6&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
