@@ -1,9 +1,9 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:61DAFB&height=200&section=header&text=Felipe%20Suarez&fontSize=42&fontColor=61DAFB&fontAlignY=35&desc=Software%20Developer&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=478be6,50:1a1b27,100:478be6&height=200&section=header&text=Felipe%20Suarez&fontSize=42&fontColor=478be6&fontAlignY=35&desc=Software%20Developer&descSize=18&descColor=478be6&descAlignY=55&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Kotlin+%C2%B7+Node.js+%C2%B7+AWS+%C2%B7+Web3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=478be6&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Kotlin+%C2%B7+Node.js+%C2%B7+AWS+%C2%B7+Web3)](https://git.io/typing-svg)
 
 </div>
 
@@ -88,4 +88,4 @@ I take a technology-agnostic approach, always prioritizing the most effective so
 </div>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:61DAFB&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:478be6&height=120&section=footer" width="100%" />
